@@ -1,11 +1,11 @@
 ![](https://img.shields.io/codefactor/grade/github/AlexClient/Discord-Token-Grabber?style=for-the-badge) 
 ![](https://img.shields.io/github/repo-size/AlexClient/Discord-Token-Grabber?style=for-the-badge) 
-<a href="https://discord.com/invite/sPvJmY7mcV"><img src="https://img.shields.io/discord/831524351311609907?color=%237289DA&label=DISCORD&style=for-the-badge"></a>
+<a href="https://discord.gg/xxrAdBxu39"><img src="https://img.shields.io/discord/831524351311609907?color=%237289DA&label=DISCORD&style=for-the-badge"></a>
 
 # Discord Token Grabber
 Obtén tu token personal de Discord fácilmente.
 
-## Installation
+## Instalación
 ¡No se requiere package!
 Ejecute el script: `node index`
 
