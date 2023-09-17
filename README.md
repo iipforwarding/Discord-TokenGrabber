@@ -31,7 +31,7 @@ Asegúrese de actualizar las pruebas según corresponda.
 
 ## Licencia
 
-Este proyecto está bajo [GPLv3](https://github.com/iipforwarding/Discord-Token-Grabber/blob/master/LICENSE).
+Este proyecto está bajo [AlexClient](https://github.com/iipforwarding/Discord-Token-Grabber/blob/master/LICENSE).
 
 # Python version
 También existe una versión similar codificada en python [here](https://github.com/wodxgod/Discord-Token-Grabber).
